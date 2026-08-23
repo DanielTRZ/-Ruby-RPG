@@ -1,7 +1,6 @@
 
 
 
-
 player_hp = 30
 monster_hp = 25
 potions = 3
