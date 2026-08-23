@@ -5,6 +5,7 @@ potions = 3
 puts "🧙‍♂️ Witaj w Ruby RPG!"
 puts "Przed Tobą stoi potwór! 🐉"
 
+
 while player_hp > 0 && monster_hp > 0
   puts "\nTwoje HP: #{player_hp}"
   puts "HP potwora: #{monster_hp}"
